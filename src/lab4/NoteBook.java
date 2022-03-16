@@ -68,7 +68,6 @@ public class NoteBook implements Serializable {
 //			if (f1.getName().equals(foldername)){
 //				f = f1;
 //				break;
-//				continue;
 //			}
 //		}
 		
