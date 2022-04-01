@@ -35,8 +35,7 @@ public class Account {
 	// TODO: Task3 
 	// replace the null with a lambda expression
 	public static AddMaker maker = (a) -> {
-		balance += 1;
-		return b;
+		
 	};
 
 
