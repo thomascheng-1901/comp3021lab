@@ -34,9 +34,7 @@ public class Account {
 
 	// TODO: Task3 
 	// replace the null with a lambda expression
-	public static AddMaker maker = (a) -> {
-		
-	};
+	public static AddMaker maker = null;
 
 
 	// You can assume that all the Account in acconts have positive balances.
