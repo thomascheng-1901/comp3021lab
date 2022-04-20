@@ -600,6 +600,7 @@ public class NoteBookWindow extends Application {
     		  titleslistView.setItems(search_notes);
 	}
 	
+	
 	private boolean save(File file){
 		FileOutputStream fos = null;
 		ObjectOutputStream out = null;
